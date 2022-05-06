@@ -55,4 +55,4 @@ Hence it's better to use my diff instead of changing things on your own
 
 8. dynamic Cursor
 
-9. Alpha
+9. Focus (Alpha+ alpha focus highlight

@@ -99,8 +99,14 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 8;
 
+// ---- FOR ALPHA PATCH ----
+/* bg opacity */
+float alpha = 1, alphaUnfocused = 0.6;
+unsigned int bg = 0, bgUnfocused = 0; 
+
 // --- TERMINAL THEME
 #include "themes/monokai.h"
+
 
 /*
  * Default shape of cursor
