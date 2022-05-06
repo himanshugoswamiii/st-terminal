@@ -1,0 +1,11 @@
+# Config.h will made automatically each time we compile program
+config.h
+
+*.orig
+*.rej
+
+# .o files are object files which are made when C programs are compiled
+*.o
+dwm
+st
+
