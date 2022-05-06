@@ -41,3 +41,11 @@ anysize :
 - If you're patching on your own then apply the patch from my diff instead of patches
 
 scrollbackringbuffer (Not a single rejfile LOL)
+
+st-scrollback-mouse-2
+st-scrollback-mouse-increment
+
+or use my diff file directly
+
+Since we're using scrollbackringbuffer patch so format for somekeybindins is different for st-scrollback-mouse-increment
+Hence it's better to use my diff instead of changing things on your own
