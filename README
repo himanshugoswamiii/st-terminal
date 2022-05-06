@@ -39,3 +39,5 @@ font2
 
 anysize : 
 - If you're patching on your own then apply the patch from my diff instead of patches
+
+scrollbackringbuffer (Not a single rejfile LOL)
