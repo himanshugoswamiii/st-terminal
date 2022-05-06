@@ -49,3 +49,7 @@ or use my diff file directly
 
 Since we're using scrollbackringbuffer patch so format for somekeybindins is different for st-scrollback-mouse-increment
 Hence it's better to use my diff instead of changing things on your own
+
+clipboard
+
+dynamic Cursor
